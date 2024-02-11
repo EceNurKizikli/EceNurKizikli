@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- My name is Ece Nur KIZIKLI
+- I'm currently studying Computer Science at Bilkent University.
 <!--
 **EceNurKizikli/EceNurKizikli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
